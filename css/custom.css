@@ -144,8 +144,8 @@ section {
 }
 #quote-carousel .carousel-indicators .active {
     background: #333333;
-    width: 128px;
-    height: 128px;
+    width: 150px;
+    height: 150px;
     border-radius: 100px;
     border-color: #f33;
     opacity: 1;
@@ -164,19 +164,6 @@ section {
     float: left;
     margin-right: 10px;
 }
-
-
-.circle {
- 	width:200px;
-    height:200px;
-    border-radius:50%;
-    line-height:200px;
-    text-align:center;
-    color:white;
-    background:#FF7AF3;
-
-}
-
 
 
 
