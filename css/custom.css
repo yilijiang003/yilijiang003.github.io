@@ -144,9 +144,9 @@ section {
 }
 #quote-carousel .carousel-indicators .active {
     background: #333333;
-    width: 150px;
-    height: 150px;
-    border-radius: 100px;
+    width: 130px;
+    height: 130px;
+    border-radius: 90px;
     border-color: #f33;
     opacity: 1;
     overflow: hidden;
